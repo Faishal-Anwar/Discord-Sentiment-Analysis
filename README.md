@@ -37,11 +37,11 @@ Membantu dalam:
 ---
 
 ## Hasil Sementara
-![image](https://github.com/user-attachments/assets/d124ddbb-4af1-4124-a64e-0409b401a6b9)
-
-![image](https://github.com/user-attachments/assets/6a8ba73b-5a7c-447a-8591-aa79e28a5c86)
 
 ![image](https://github.com/user-attachments/assets/fbdd5285-22c3-4815-a7ec-74d3dedff7c6)
+
+![image](https://github.com/user-attachments/assets/d124ddbb-4af1-4124-a64e-0409b401a6b9)
+![image](https://github.com/user-attachments/assets/6a8ba73b-5a7c-447a-8591-aa79e28a5c86)
 
 - Dataset dibersihkan dari duplikat dan null value.
 - Model klasifikasi awal menunjukkan hasil yang menjanjikan.
